@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## 📌 Usage
 Run the program using:
 ```sh
-python main.py
+expense_tracker.py
 ```
 
 ### How It Works
@@ -45,10 +45,13 @@ python main.py
 ## 📁 File Structure
 ```
 expense-tracker/
-│── expense.py      # Expense class definition
-│── main.py         # Main application logic
-│── expenses.csv    # File where expenses are stored
-│── README.md       # Documentation
+│── Excel.png            # Linking csv file to Excel
+│── Output.png           # Example output
+│── README.md            # Documentation
+│── expense.py           # Expense class definition
+│── expense_tracker.py   # Main application logic
+│── expenses.csv         # File where expenses are stored
+
 ```
 
 ## 🔗 Linking to Excel
